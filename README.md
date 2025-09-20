@@ -8,7 +8,7 @@ This repository is linked to an NFC tag.
 
 ## NFC Tag Message
 
-**LLAMA**
+**DEMO NFC**
 
 ---
 # CATHBUDDY_1
